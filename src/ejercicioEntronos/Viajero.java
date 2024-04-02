@@ -7,5 +7,6 @@ public class Viajero {
 		super();
 		this.nombre = nombre;
 		this.edad = edad;
+	System.out.println(1);
 	}
 }
