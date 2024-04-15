@@ -11,6 +11,7 @@ public class Conductor {
 		this.nombre = nombre;
 		this.edad = edad;
 		
+		
 	}
 	public void aceptarViaje() {
 		/**
