@@ -9,9 +9,7 @@ public class Conductor {
 	public Conductor(String nombre, int edad) {
 		super();
 		this.nombre = nombre;
-		this.edad = edad;
-		
-		
+		this.edad = edad;		
 	}
 	public void aceptarViaje() {
 		/**
