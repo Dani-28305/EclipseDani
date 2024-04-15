@@ -10,6 +10,7 @@ public class Conductor {
 		super();
 		this.nombre = nombre;
 		this.edad = edad;
+		
 	}
 	public void aceptarViaje() {
 		/**
